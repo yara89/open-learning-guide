@@ -2,13 +2,14 @@
 layout: default
 title: BUSINESS & SOCIAL INNOVATION TOOLS
 parent: Open Learning Introduction
+permalink: /pages/business-social
 nav_order: 4
 ---
 
 ## BUSINESS & SOCIAL INNOVATION TOOLS
 
 ### DEVELOPMENT IMPACT AND YOU
-http://diytoolkit.org/tools/
+[diytoolkit.org/tools]({{ 'http://diytoolkit.org/tools/' | relative_url }})
 Innovation Flowchart / Business Model Canvas / People and Connections Map
 
 ### GIG Global Innovation Gathering
