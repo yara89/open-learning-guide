@@ -2,7 +2,7 @@
 layout: default
 title: eLEARNING RESOURCES
 parent: Open Learning Introduction
-nav_order: 3
+nav_order: 4
 ---
 
 ## eLEARNING RESOURCES

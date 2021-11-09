@@ -2,7 +2,7 @@
 layout: default
 title: PEER2PEER (P2P) & ICT LITERACY
 parent: Open Learning Introduction
-nav_order: 2
+nav_order: 3
 ---
 
 ## PEER2PEER (P2P) & ICT LITERACY
