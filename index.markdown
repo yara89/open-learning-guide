@@ -5,7 +5,7 @@
 layout: default
 ---
  
- [tools](/pics/open-learning-guide-r0g-agency-asknet.png "Text to show on mouseover").
+ [tools](pics/open-learning-guide-r0g-agency-asknet.png "Text to show on mouseover").
 
 
 
