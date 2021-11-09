@@ -2,7 +2,6 @@
 layout: default
 title: BUSINESS & SOCIAL INNOVATION TOOLS
 parent: Open Learning Introduction
-permalink: /pages/business-social
 nav_order: 4
 ---
 
