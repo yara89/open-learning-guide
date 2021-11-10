@@ -30,7 +30,7 @@ remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "view on GitHub":
-    - "//github.com/yara89/open-learnung-guide"
+    - "//github.com/yara89/open-learning-guide"
 
 # Build settings
 theme: just-the-docs
