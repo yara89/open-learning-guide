@@ -9,13 +9,10 @@ nav_order: 4
 
 ### ALISON ONLINE TRAINING
 [alison.com](https://alison.com/){:target="_blank" rel="noopener"}
-
-
 Free, high-quality online education resources to help you develop essential, certified workplace skills. Sponsored by Google, Microsoft et al
 
 ### EDX
-[edx.com](https://www.edx.org)
-
+[edx.com](https://www.edx.org){:target="_blank" rel="noopener"}
 Access to free education for everyone. Harvard University, MIT & submit your own courses!
 
 ### ELEARNING AFRICA
