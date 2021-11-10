@@ -29,8 +29,8 @@ remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "view on GitHub":
+    - "//github.com/yara89/open-learnung-guide"
 
 # Build settings
 theme: just-the-docs
@@ -58,3 +58,6 @@ footer_content: "CC-BY-SA-4.0 #ASKnet r0g_agency gGmbH. Distributed by an <a hre
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+markdown: kramdown
+
