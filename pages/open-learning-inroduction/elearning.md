@@ -8,11 +8,13 @@ nav_order: 4
 ## eLEARNING RESOURCES
 
 ### ALISON ONLINE TRAINING
-https://alison.com/
+[alison.com](https://alison.com/)
+
 Free, high-quality online education resources to help you develop essential, certified workplace skills. Sponsored by Google, Microsoft et al
 
 ### EDX
-https://www.edx.org
+[edx.com](https://www.edx.org)
+
 Access to free education for everyone. Harvard University, MIT & submit your own courses!
 
 ### ELEARNING AFRICA
