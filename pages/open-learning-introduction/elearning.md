@@ -8,7 +8,8 @@ nav_order: 4
 ## eLEARNING RESOURCES
 
 ### ALISON ONLINE TRAINING
-[alison.com](https://alison.com/)
+[alison.com](https://alison.com/){:target="_blank" rel="noopener"}
+
 
 Free, high-quality online education resources to help you develop essential, certified workplace skills. Sponsored by Google, Microsoft et al
 
@@ -36,3 +37,6 @@ Courses, movies, audio books, ebooks, textbooks, language lessons
 
 ### SCHOOL OF LIFE 
 Essays, philosophy, short video series https://www.youtube.com/user/schooloflifechannel
+
+
+{:toc}
