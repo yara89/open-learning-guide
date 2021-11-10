@@ -36,6 +36,9 @@ aux_links:
 theme: just-the-docs
 plugins:
   - jekyll-feed
+  
+plugins:
+  - jekyll-pdf-embed
 
 footer_content: "CC-BY-SA-4.0 #ASKnet r0g_agency gGmbH. Distributed by an <a href=\"https://github.com/ASKnet-Open-Training/Github-Guidance/blob/main/LICENSE\">CC-BY-SA-4.0 license.</a>"
 
